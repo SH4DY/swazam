@@ -1,0 +1,30 @@
+﻿
+Circular Progressbar/bin/
+Circular Progressbar/gen/
+
+#Die ganzen Standard-Ignores + für unser Projekt die Datenbankconfig jdbc.properties.tmp
+
+ 
+ #Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+ 
+# Intellij
+.idea/
+*.iml
+*.iws
+ 
+# Mac
+.DS_Store
+ 
+# Maven
+log/
+target/
+
+#JDBC Properties File, nur das template soll versioniert werden
+jdbc.properties
+
+Swazam Android Client/bin/
+Swazam Android Client/gen/

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/root_menu"
+        android:icon="@drawable/ic_action_overflow"
+        android:showAsAction="always"
+        android:title="More">
+        <menu>
+            <item
+                android:id="@+id/action_settings"
+                android:orderInCategory="100"
+                android:showAsAction="never"
+                android:title="@string/action_settings"/>
+            <item
+                android:id="@+id/menu_requests"
+                android:orderInCategory="100"
+                android:showAsAction="never"
+                android:title="@string/action_requests_history"/>
+            <item
+                android:id="@+id/menu_transactions"
+                android:orderInCategory="100"
+                android:showAsAction="never"
+                android:title="@string/action_transactions_history"/>
+        </menu>
+    </item>
+
+</menu>

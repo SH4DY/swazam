@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Swazam</string>
+    <string name="fingerprint_created">Fingerprint created</string>
+    <string name="error_creating_fingerprint">Error during fingerprint creation.</string>
+    <string name="title_activity_recognition">Recognition Request</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_history">History</string>
+    <string name="action_requests_history">Requests</string>
+    <string name="action_transactions_history">Transactions</string>
+    <string name="host_address">Server address</string>
+    <string name="host_address_summary">The Swazam\'s server URI</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="transactions">Transactions</string>
+    <string name="requests">Requests</string>
+
+</resources>
